@@ -1,0 +1,30 @@
+body{
+    background-color: #171717;
+}
+.back{
+    background-color: black;
+    padding: 30px;
+    margin-top: 30vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    color:white;
+}
+
+#clock{
+    background-color: #000000; 
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 0;
+    font-size: 100px;
+    color:white;
+}
+#date{
+    background-color: #000000; 
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10vh;
+    font-size: 25px;
+    color:white;
+}
